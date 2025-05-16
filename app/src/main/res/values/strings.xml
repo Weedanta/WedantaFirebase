@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Contact Manager</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="edit_contact">Edit Contact</string>
+    <string name="contact_name">Name</string>
+    <string name="contact_email">Email</string>
+    <string name="contact_phone">Phone</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="fill_all_fields">Please fill all fields!</string>
+    <string name="contact_added">Contact added successfully!</string>
+    <string name="contact_updated">Contact updated successfully!</string>
+    <string name="contact_deleted">Contact deleted successfully!</string>
+    <string name="error_update">Contact could not be updated!</string>
+</resources>
